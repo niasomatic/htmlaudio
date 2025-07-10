@@ -1,6 +1,6 @@
-body { font-family: sans-serif; margin: 20px; color: peru; }
+body { font-family: sans-serif; margin: 20px; color: plum; }
 .audio-item {
-    border: 1px solid #ccc;
+    border: 1px solid #7bfffd;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 5px;
@@ -8,7 +8,8 @@ body { font-family: sans-serif; margin: 20px; color: peru; }
     align-items: center;
     gap: 15px;
     align-items: center;
+    color: #7bfffd;
 }
 .audio-item h3 { margin: 0; font-size: 1.1em; }
 .audio-item p { margin: 5px 0 0; font-size: 0.9em; color: #7bfffd; }
-.audio-player audio { width: 100%; max-width: 300px; }
+.audio-player audio { width: 100%; max-width: 300px; color: #7bfffd; }

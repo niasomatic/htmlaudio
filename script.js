@@ -20,7 +20,7 @@ const audioData = {
       "id": 2,
       "mp3": "/htmlaudio/audio/10countwomanteacher.mp3", // Corrected path
       "title": "10 count by woman teacher slowly",
-      "price": 0,
+    
       "choice": false,
       "duration": ["14sec"]
     },
@@ -36,7 +36,7 @@ const audioData = {
       "id": 4,
       "mp3": "/htmlaudio/audio/20sec.mp3", // Corrected path
       "title": "20 seconds with woman teacher voice",
-      "price": 0,
+    
       "choice": true,
       "duration": ["30sec"]
     },
@@ -44,7 +44,7 @@ const audioData = {
       "id": 5,
       "mp3": "/htmlaudio/audio/metronome1min.mp3", // Corrected path
       "title": "Metronome 1min",
-      "price": 0,
+      
       "choice": false,
       "duration": ["62sec"]
     },
@@ -52,7 +52,7 @@ const audioData = {
       "id": 6,
       "mp3": "/htmlaudio/audio/3minbell.mp3", // Corrected path
       "title": "3 min bell",
-      "price": 0,
+      
       "choice": true,
       "duration": ["181sec"]
     },
@@ -60,7 +60,7 @@ const audioData = {
       "id": 7,
       "mp3": "/htmlaudio/audio/tiktok7sec.mp3", // Corrected path
       "title": "Tiktok 7sec",
-      "price": 0,
+     
       "choice": false,
       "duration": ["8sec"]
     },
@@ -68,7 +68,7 @@ const audioData = {
       "id": 8,
       "mp3": "/htmlaudio/audio/analog1min.mp3", // Corrected path
       "title": "Analog clock 1min",
-      "price": 0,
+     
       "choice": true,
       "duration": ["61sec"]
     },
@@ -76,7 +76,7 @@ const audioData = {
       "id": 9,
       "mp3": "/htmlaudio/audio/10secdrum.mp3", // Corrected path
       "title": "10 seconds drum",
-      "price": 0,
+     
       "choice": false,
       "new": true,
       "duration": ["8sec"]
@@ -85,7 +85,6 @@ const audioData = {
       "id": 10,
       "mp3": "/htmlaudio/audio/piano-20sec.mp3", // Corrected path
       "title": "Piano 20sec",
-      "price": 19900,
       "choice": true,
       "new": false,
       "duration": ["20sec"]
@@ -94,7 +93,7 @@ const audioData = {
       "id": 11,
       "mp3": "/htmlaudio/audio/meditation-2min23sec.mp3", // Corrected path
       "title": "Meditation",
-      "price": 0,
+    
       "choice": true,
       "new": true,
       "duration": ["142sec"]
